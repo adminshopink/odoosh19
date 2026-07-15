@@ -1,2 +1,2 @@
 # odoosh19
-Odoo SH Shopink
+Odoo SH Shopink v2 depurada
