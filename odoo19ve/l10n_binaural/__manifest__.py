@@ -9,7 +9,7 @@
         cuentas contables y diarios para tipo de empresa servicio
     """,
     "data": [
-        "data/res_currency_data.xml",
+        #"data/res_currency_data.xml",
         "data/template/account.account-binaural.csv",
         "data/template/account.tax.group-binaural.csv",
         "data/template/account.tax-binaural.csv",
