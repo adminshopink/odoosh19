@@ -10,11 +10,11 @@
     """,
     "data": [
        # "data/res_currency_data.xml",
-        "data/template/account.account-binaural.csv",
-        "data/template/account.tax.group-binaural.csv",
-        "data/template/account.tax-binaural.csv",
-        "data/product_template_data.xml",
-        "data/res_partner_data.xml",
-        "data/account_journal_data.xml",
+       # "data/template/account.account-binaural.csv",
+       # "data/template/account.tax.group-binaural.csv",
+        #"data/template/account.tax-binaural.csv",
+        #"data/product_template_data.xml",
+        #"data/res_partner_data.xml",
+        #"data/account_journal_data.xml",
     ],
 }
